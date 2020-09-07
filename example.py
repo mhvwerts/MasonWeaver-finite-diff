@@ -25,6 +25,8 @@ Ngridpoints = 1000
 # over 'Ntimesteps' time steps (exponentially increasing delta t)
 # The parameters 'D' and 'sg' are for 60 nm diam. spherical gold nanoparticles
 # in water at +4°C.
+# Everything calculated using SI units: meters, seconds, ...
+# For plotting, occasional conversions to centimeters, hours.
 
 soln = MWsoln(z_max = 0.01, t_end = 3.6E6,
               J = Ngridpoints, N = Ntimesteps,
