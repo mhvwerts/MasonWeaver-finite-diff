@@ -39,7 +39,7 @@ from scipy.sparse import linalg
 
 
 
-class aMWsoln(object):
+class aMWsoln:
     """Solution to the adimensional Mason-Weaver equation.
     
     The Mason-Weaver equation is solved with the finite-difference scheme 
