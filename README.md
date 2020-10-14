@@ -22,10 +22,11 @@ There is no specific installation. The program will run on Python 3 and depends 
 Inside the module, there is example code that demonstrates how to run ('instantiate') the solver and extract the results.
 
 
-## To-do's
+## New!
 
-- Further documentation and examples
-- Provide test code
+We now include a notebook with an example comparing the present finite-difference solver to the [Fipy](https://www.ctcms.nist.gov/fipy/) finite-volume solver, demonstrating that both solvers give very similar time-evolution of the concentration profile.
+
+
 
 
 
