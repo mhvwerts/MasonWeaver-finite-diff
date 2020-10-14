@@ -5,7 +5,7 @@ The Mason-Weaver equation describes the sedimentation of Brownian particles,
 equation is a partial differential equation describing the time-evolution of
 the particle concentration profile.
 
-Here we provide a finite-difference solver for the Mason-Weaver problem for use in modeling nanoparticle sedimentation behaviour.
+Here we provide a finite-difference solver for the Mason-Weaver problem. It can be used in the modeling of nanoparticle sedimentation behaviour.
 
 The present solver is based on the Crank-Nicolson finite-difference scheme
 described in [1]. That paper contains furhter explanations of nanoparticle sedimentation.
