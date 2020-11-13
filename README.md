@@ -1,7 +1,6 @@
 # MasonWeaver-finite-diff: Finite-difference solver for the Mason-Weaver equation.
 
-The Mason-Weaver equation describes the sedimentation of Brownian particles,
-*i.e.* it models sedimentation in the presence of diffusion. The Mason-Weaver
+The Mason-Weaver equation describes the sedimentation of Brownian particles (*e.g.* nanoparticles in a liquid). It models sedimentation in the presence of diffusion. The Mason-Weaver
 equation is a partial differential equation describing the time-evolution of
 the particle concentration profile.
 
