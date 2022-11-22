@@ -15,6 +15,9 @@ described in [1]. That paper contains further explanations of nanoparticle sedim
     Part. & Part. Syst. Charact. 2017, 34, 1700095. 
     [doi:10.1002/ppsc.201700095](https://doi.org/10.1002/ppsc.201700095) 
 
+## New!
+
+We have now developed a Python program that calculates the solution to the Mason-Weaver equation using analytic expressions, which is in many respects a superior approach. The package is situated in the repository [`MasonWeaver-analytic`](https://github.com/mhvwerts/MasonWeaver-analytic). We warmly recommend it.
 
 ## Installation and usage
 
