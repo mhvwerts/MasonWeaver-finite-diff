@@ -2,6 +2,7 @@
 
 ---
 **New!** We have now developed a Python program that calculates the solution to the Mason-Weaver equation using analytic expressions, which is in many respects a superior approach. The package is situated in the repository [`MasonWeaver-analytic`](https://github.com/mhvwerts/MasonWeaver-analytic). We warmly recommend it.
+
 ---
 
 The Mason-Weaver equation describes the sedimentation of Brownian particles (*e.g.* nanoparticles in a liquid). It models sedimentation in the presence of diffusion. The Mason-Weaver
