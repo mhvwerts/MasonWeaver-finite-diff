@@ -1,5 +1,7 @@
 # MasonWeaver-finite-diff: Finite-difference solver for the Mason-Weaver equation.
 
+**New!** We have now developed a Python program that calculates the solution to the Mason-Weaver equation using analytic expressions, which is in many respects a superior approach. The package is situated in the repository [`MasonWeaver-analytic`](https://github.com/mhvwerts/MasonWeaver-analytic). We warmly recommend it.
+
 The Mason-Weaver equation describes the sedimentation of Brownian particles (*e.g.* nanoparticles in a liquid). It models sedimentation in the presence of diffusion. The Mason-Weaver
 equation is a partial differential equation describing the time-evolution of
 the particle concentration profile.
@@ -15,9 +17,6 @@ described in [1]. That paper contains further explanations of nanoparticle sedim
     Part. & Part. Syst. Charact. 2017, 34, 1700095. 
     [doi:10.1002/ppsc.201700095](https://doi.org/10.1002/ppsc.201700095) 
 
-## New!
-
-We have now developed a Python program that calculates the solution to the Mason-Weaver equation using analytic expressions, which is in many respects a superior approach. The package is situated in the repository [`MasonWeaver-analytic`](https://github.com/mhvwerts/MasonWeaver-analytic). We warmly recommend it.
 
 ## Installation and usage
 
