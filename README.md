@@ -1,7 +1,7 @@
 # MasonWeaver-finite-diff: Finite-difference solver for the Mason-Weaver equation.
 
 ---
-**New!** We have now developed a Python program that calculates the solution to the Mason-Weaver equation using analytic expressions, which is in many respects a superior approach. The package is situated in the repository [`MasonWeaver-analytic`](https://github.com/mhvwerts/MasonWeaver-analytic). We warmly recommend it.
+**New!** We have developed a Python program that calculates the solution to the Mason-Weaver equation using analytic expressions, which is in many respects a superior approach. The package is situated in the repository [`MasonWeaver-analytic`](https://github.com/mhvwerts/MasonWeaver-analytic). Highly recommended.
 
 ---
 
