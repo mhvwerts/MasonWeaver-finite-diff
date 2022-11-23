@@ -1,7 +1,7 @@
 # MasonWeaver-finite-diff: Finite-difference solver for the Mason-Weaver equation.
 
 ---
-**New!** We have developed a Python program that calculates the solution to the Mason-Weaver equation using analytic expressions, which is in many respects a better approach than the finite-difference method presented here. The new package is situated in the repository [`MasonWeaver-analytic`](https://github.com/mhvwerts/MasonWeaver-analytic). Highly recommended.
+**New!** We have recently developed a Python program that calculates the solution to the Mason-Weaver equation using analytic expressions, which is in most (but not all) respects a better approach than the finite-difference method presented here. The new package is situated in the repository [`MasonWeaver-analytic`](https://github.com/mhvwerts/MasonWeaver-analytic).
 
 ---
 
@@ -27,10 +27,7 @@ There is no specific installation. The program will run on Python 3 and depends 
 
 Inside the module, there is example code that demonstrates how to run ('instantiate') the solver and extract the results.
 
-
-## New!
-
-We now include a notebook with an example comparing the present finite-difference solver to the [Fipy](https://www.ctcms.nist.gov/fipy/) finite-volume solver, demonstrating that both solvers give very similar time-evolution of the concentration profile.
+We also include a Jupyter notebook with an example comparing the present finite-difference solver to the [Fipy](https://www.ctcms.nist.gov/fipy/) finite-volume solver, demonstrating that both solvers give very similar time-evolution of the concentration profile.
 
 
 
